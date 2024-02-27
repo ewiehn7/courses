@@ -27,11 +27,8 @@
                <person>
                   <persName>Nikita Bityutskiy</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
-                  </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                     <date>10/09/03</date>
+                     <placeName>Tashkent, Uzbeckistan</placeName> </birth><occupation>Computer Science</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
             <p>FUN FACT</p>
