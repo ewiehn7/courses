@@ -31,17 +31,12 @@
                      <placeName>Tashkent, Uzbeckistan</placeName> </birth><occupation>Computer Science Major</occupation><occupation> Engineering Major </occupation><occupation>American Politics Minor</occupation> <affiliation>Men's Swim and Dive </affiliation></person></listPerson><p>I wanted to play baseball but screwed up my shoulder</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10002" xml:space="default">
                <person>
-                  <persName>Zach Blumenfeld</persName> <birth><date>02/02/05</date> <placeName>Doylestown, PA</placeName> </birth><occupation>Computer Science Major</occupation> <occupation>Engineerin Major </occupation><affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <listRelation>
-               <relation name="#dkj004">
-                  <desc/>
+                  <persName>Zach Blumenfeld</persName> <birth><date>02/02/05</date> <placeName>Doylestown, PA</placeName> </birth><occupation>Computer Science Major</occupation> <occupation>Engineerin Major </occupation></person></listPerson><listRelation><relation name="#dkj004"><desc/>
                </relation>
             </listRelation>
-            <p>FUN FACT</p>
+            <p>I am also left handed</p>
          </div>
          <div>
             <listPerson>
