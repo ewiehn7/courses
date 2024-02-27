@@ -18,8 +18,7 @@
          <div>
             <listPerson cert="high" default="true" xml:space="default">
                <person>
-                  <persName>NAME2</persName><birth><date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Erin Wiehn </persName><birth><date>02/26/05</date> <placeName>Newton, MA</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
