@@ -23,7 +23,7 @@
                   <occupation>Economics Major</occupation> <affiliation>ACS (American Cancer Society)</affiliation></person></listPerson><p>I'm left handed!</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10001" xml:space="default">
                <person>
                   <persName>Nikita Bityutskiy</persName>
                   <birth>
@@ -33,9 +33,7 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME4</persName>
-                  <birth>
-                     <date>DATE</date>
+                  <persName>Zach Blumenfeld</persName> <birth><date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
