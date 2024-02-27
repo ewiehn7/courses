@@ -33,11 +33,7 @@
          <div>
             <listPerson>
                <person>
-                  <persName>Zach Blumenfeld</persName> <birth><date>DATE</date>
-                     <placeName>PLACE</placeName>
-                  </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <persName>Zach Blumenfeld</persName> <birth><date>02/02/05</date> <placeName>Doylestown, PA</placeName> </birth><occupation>Computer Science Major</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
             <listRelation>
