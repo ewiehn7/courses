@@ -48,12 +48,12 @@
                   <occupation>Creative Writing Major </occupation><occupation>Comparitive and Digital Humanities Major</occupation> <affiliation>Rock Climing </affiliation><affiliation>CW Club </affiliation><affiliation>Film Club </affiliation><affiliation>Cooking Club </affiliation><affiliation>LACOS </affiliation><affiliation>Arts Merrit Scholar</affiliation></person></listPerson><p>I was a competitive fencer</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10005" xml:space="default">
                <person>
                   <persName>Junbo Feng </persName><birth><date>07/12/2005</date>
                      <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation>Computer Science Major </occupation><occupation>Engineering Major</occupation> <affiliation>Cycling </affiliation><affiliation>E-Sports</affiliation><affiliation/></person></listPerson><p>FUN FACT</p>
+                  <occupation>Computer Science Major </occupation><occupation>Engineering Major</occupation> <affiliation>Cycling </affiliation><affiliation>E-Sports Club </affiliation><affiliation>Frisbee Club</affiliation></person></listPerson><p>I am a music producer</p>
          </div>
          <div>
             <listPerson>
