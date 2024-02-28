@@ -98,12 +98,12 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME11</persName>
+                  <persName>Peyton Wynkoop</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>08/21/05</date>
+                     <placeName>Abu Dhabi, UAE</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <occupation>Undeclared Major</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
