@@ -73,17 +73,16 @@
                   <occupation>Economics Major </occupation><occupation>Political Science Major</occupation> <affiliation>Club Basketball</affiliation></person></listPerson><p>I am going to Scotland in May</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10008" xml:space="default">
                <person>
                   <persName>Dylan Lange</persName> <birth><date>06/01/04</date> <placeName>Indio, CA</placeName> </birth><occupation>Computer Science Major</occupation> <affiliation>Volleyball Club </affiliation><affiliation>ACM Club </affiliation><affiliation>Tea Club </affiliation><affiliation>Sigma Alpha Epsilon </affiliation></person></listPerson><p>I have 15 cats</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME9</persName>
+                  <persName>Joshua Lee</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>02/20/04</date> <placeName>Eng</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
