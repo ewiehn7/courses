@@ -51,10 +51,9 @@
             <listPerson>
                <person>
                   <persName>Junbo Feng </persName><birth><date>07/12/2005</date>
-                     <placeName>PLACE</placeName>
+                     <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>Computer Science Major</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
 
