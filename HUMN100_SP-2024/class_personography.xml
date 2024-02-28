@@ -90,10 +90,9 @@
          <div>
             <listPerson>
                <person>
-                  <persName>Alexander Peters</persName> <birth><date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Leo McMenimen</persName> <birth><date>11/25/03</date> <placeName>Sayerville, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                  <occupation>Computer Science Major</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
