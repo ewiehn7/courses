@@ -53,11 +53,7 @@
                   <persName>Junbo Feng </persName><birth><date>07/12/2005</date>
                      <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation>Computer Science Major</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-
-            <p>FUN FACT</p>
+                  <occupation>Computer Science Major </occupation><occupation>Engineering Major</occupation> <affiliation>Cycling </affiliation><affiliation>E-Sports</affiliation><affiliation/></person></listPerson><p>FUN FACT</p>
          </div>
          <div>
             <listPerson>
