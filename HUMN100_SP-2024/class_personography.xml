@@ -56,21 +56,17 @@
                   <occupation>Computer Science Major </occupation><occupation>Engineering Major</occupation> <affiliation>Cycling </affiliation><affiliation>E-Sports Club </affiliation><affiliation>Frisbee Club</affiliation></person></listPerson><p>I am a music producer</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10006" xml:space="default">
                <person>
                   <persName>Jackson Green</persName>
                   <birth>
                      <date>03/09/2005</date>
-                     <placeName>Washington D.C.,</placeName> </birth><occupation>Undecided M</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                     <placeName>Washington D.C.,</placeName> </birth><occupation>Undecided Major</occupation> <affiliation>Men's Rowing</affiliation></person></listPerson><p>I have two dogs and a cat</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME7</persName>
+                  <persName>Abby Hausner</persName>
                   <birth>
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
