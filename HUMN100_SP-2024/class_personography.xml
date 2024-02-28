@@ -78,17 +78,14 @@
                   <persName>Dylan Lange</persName> <birth><date>06/01/04</date> <placeName>Indio, CA</placeName> </birth><occupation>Computer Science Major</occupation> <affiliation>Volleyball Club </affiliation><affiliation>ACM Club </affiliation><affiliation>Tea Club </affiliation><affiliation>Sigma Alpha Epsilon </affiliation></person></listPerson><p>I have 15 cats</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10009" xml:space="default">
                <person>
                   <persName>Joshua Lee</persName>
                   <birth>
-                     <date>02/20/04</date> <placeName>Eng</placeName>
+                     <date>02/20/04</date> <placeName>Englewood,NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation>Computer Science Major</occupation>
+                  <affiliation>Korean Cultural Association</affiliation></person></listPerson><p>No fact listed</p>
          </div>
          <div>
             <listPerson>
