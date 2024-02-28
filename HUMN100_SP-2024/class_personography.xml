@@ -120,10 +120,9 @@
             <listPerson>
                <person>
                   <persName>Diane Jakacki </persName> <birth><date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <placeName>Englewood Cliffs, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                  <occupation>English Major </occupation><occupation>History Major</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
             <p>FUN FACT</p>
