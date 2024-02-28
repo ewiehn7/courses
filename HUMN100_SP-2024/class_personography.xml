@@ -58,12 +58,10 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME6</persName>
+                  <persName>Jackson Green</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
-                  </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
+                     <date>03/09/2005</date>
+                     <placeName>Washington D.C.,</placeName> </birth><occupation>Undecided M</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
