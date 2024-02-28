@@ -39,7 +39,7 @@
             <p>I am also left handed</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10003" xml:space="default">
                <person>
                   <persName>Miguel Camacho</persName>
                   <birth>
@@ -50,9 +50,7 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME5</persName>
-                  <birth>
-                     <date>DATE</date>
+                  <persName>Nathan Casarsa</persName> <birth><date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
