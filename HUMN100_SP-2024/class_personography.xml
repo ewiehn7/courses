@@ -64,24 +64,18 @@
                      <placeName>Washington D.C.,</placeName> </birth><occupation>Undecided Major</occupation> <affiliation>Men's Rowing</affiliation></person></listPerson><p>I have two dogs and a cat</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10007" xml:space="default">
                <person>
                   <persName>Abby Hausner</persName>
                   <birth>
                      <date>10/08/04</date> <placeName>Ridgewood,NJ</placeName>
                   </birth>
-                  <occupation>Economics Major </occupation><occupation>Political Science Major</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation>Economics Major </occupation><occupation>Political Science Major</occupation> <affiliation>Club Basketball</affiliation></person></listPerson><p>I am going to Scotland in May</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME8</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Dylan Lange</persName> <birth><date>06/01/200</date> <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
