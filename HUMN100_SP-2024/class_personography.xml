@@ -107,21 +107,19 @@
                   <affiliation>DSCA</affiliation></person></listPerson><p>No fact listed</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10015" xml:space="default">
                <person>
                   <persName>Claire Cahoon</persName>
                   <birth>
                      <date>3/16</date>
                      <placeName>Charlottesville, VA</placeName>
                   </birth>
-                  <occupation>English Major </occupation><occupation>Computer Science Minor </occupation><occupation>Art History Minor</occupation> </person></listPerson><p>FUN FACT</p>
+                  <occupation>English Major </occupation><occupation>Computer Science Minor </occupation><occupation>Art History Minor</occupation> </person></listPerson><p>I have color synesthesia and a rambunctious cat</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME13</persName>
-                  <birth>
-                     <date>DATE</date>
+                  <persName>Diane Jakacki </persName> <birth><date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
