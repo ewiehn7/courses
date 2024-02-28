@@ -78,7 +78,7 @@
                   <persName>Dylan Lange</persName> <birth><date>06/01/04</date> <placeName>Indio, CA</placeName> </birth><occupation>Computer Science Major</occupation> <affiliation>Volleyball Club </affiliation><affiliation>ACM Club </affiliation><affiliation>Tea Club </affiliation><affiliation>Sigma Alpha Epsilon </affiliation></person></listPerson><p>I have 15 cats</p>
          </div>
          <div>
-            <listPerson cert="high" default="true" xml:id="humn10009" xml:space="default">
+            <listPerson cert="high" default="true" xml:space="default" xml:id="humn10009">
                <person>
                   <persName>Joshua Lee</persName>
                   <birth>
@@ -88,15 +88,12 @@
                   <affiliation>Korean Cultural Association</affiliation></person></listPerson><p>No fact listed</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10010" xml:space="default">
                <person>
                   <persName>Leo McMenimen</persName> <birth><date>11/25/03</date> <placeName>Sayerville, NJ</placeName>
                   </birth>
                   <occupation>Computer Science Major</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <affiliation>Active Minds Club</affiliation></person></listPerson><p>I have a metal rod screwed into my right arm</p>
          </div>
          <div>
             <listPerson>
