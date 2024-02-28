@@ -96,7 +96,7 @@
                   <affiliation>Active Minds Club</affiliation></person></listPerson><p>I have a metal rod screwed into my right arm</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10014" xml:space="default">
                <person>
                   <persName>Peyton Wynkoop</persName>
                   <birth>
@@ -104,18 +104,15 @@
                      <placeName>Abu Dhabi, UAE</placeName>
                   </birth>
                   <occupation>Undeclared Major</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <affiliation>DSCA</affiliation></person></listPerson><p>No fact listed</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME12</persName>
+                  <persName>Claire Cahoon</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>3/16</date>
+                     <placeName>Charlottesville, VA</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
