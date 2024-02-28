@@ -117,27 +117,12 @@
                   <occupation>English Major </occupation><occupation>Computer Science Minor </occupation><occupation>Art History Minor</occupation> </person></listPerson><p>I have color synesthesia and a rambunctious cat</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default">
                <person>
-                  <persName>Diane Jakacki </persName> <birth><date>DATE</date>
-                     <placeName>Englewood Cliffs, NJ</placeName>
-                  </birth>
-                  <occupation>English Major </occupation><occupation>History Major </occupation><occupation>Theatre Minor </occupation><occupation>Anthropology Minor</occupation> <affiliation>Delta Gamma </affiliation><affiliation>CSDH </affiliation><affiliation>Renaissance Society of America</affiliation></person></listPerson><p>I am ambidextrous, my favorite colors are blues, and I hate lima beans &amp; egg sal</p>
+                  <persName>Diane Jakacki </persName> 
+                  <occupation>English Major </occupation><occupation>History Major </occupation><occupation>Theatre Minor </occupation><occupation>Anthropology Minor</occupation> <affiliation>Delta Gamma </affiliation><affiliation>CSDH </affiliation><affiliation>Renaissance Society of America</affiliation></person></listPerson><p>I am ambidextrous, my favorite colors are blues, and I hate lima beans &amp; egg salad</p>
          </div>
-         <div>
-            <listPerson>
-               <person>
-                  <persName>NAME14</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
-                  </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
-         </div>
+         
       </body>
    </text>
 </TEI>
