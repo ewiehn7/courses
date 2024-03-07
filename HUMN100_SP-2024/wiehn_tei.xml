@@ -43,10 +43,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240304092857512",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304092857512",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:28:57.512Z",
-	"dcterms:modified": "2024-03-04T14:28:57.512Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -57,9 +56,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240304092857512#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304092857512#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -70,7 +70,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240304092857512#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304092857512#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg[3]/l[3]/placeName"
 		}
@@ -121,10 +121,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20240304093015438",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?person_annotation_20240304093015438",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:30:15.438Z",
-	"dcterms:modified": "2024-03-04T14:30:15.438Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -135,9 +134,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20240304093015438#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?person_annotation_20240304093015438#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -148,7 +148,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20240304093015438#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?person_annotation_20240304093015438#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[5]/l[3]/persName"
 		}
@@ -199,10 +199,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240304093029187",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304093029187",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:30:29.187Z",
-	"dcterms:modified": "2024-03-04T14:30:29.187Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -213,9 +212,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240304093029187#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304093029187#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -226,7 +226,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240304093029187#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304093029187#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg[5]/l[4]/placeName"
 		}
@@ -277,10 +277,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240304093111477",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304093111477",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:31:11.477Z",
-	"dcterms:modified": "2024-03-04T14:31:11.477Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -291,9 +290,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240304093111477#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304093111477#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -304,7 +304,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240304093111477#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?place_annotation_20240304093111477#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/lg/l/placeName"
 		}
@@ -355,10 +355,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304093229303",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093229303",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:32:29.303Z",
-	"dcterms:modified": "2024-03-04T14:32:29.303Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -369,9 +368,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304093229303#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093229303#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -382,7 +382,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304093229303#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093229303#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg/l[7]/rs"
 		}
@@ -433,10 +433,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304093256675",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093256675",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:32:56.675Z",
-	"dcterms:modified": "2024-03-04T14:32:56.675Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -447,9 +446,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304093256675#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093256675#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -460,7 +460,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304093256675#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093256675#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg/l[8]/rs"
 		}
@@ -511,10 +511,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304093308315",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093308315",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:33:08.315Z",
-	"dcterms:modified": "2024-03-04T14:33:08.315Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -525,9 +524,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304093308315#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093308315#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -538,7 +538,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304093308315#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093308315#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg[2]/l[3]/rs"
 		}
@@ -589,10 +589,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304093322698",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093322698",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:33:22.698Z",
-	"dcterms:modified": "2024-03-04T14:33:22.698Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -603,9 +602,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304093322698#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093322698#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -616,7 +616,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304093322698#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093322698#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg[2]/l[6]/rs"
 		}
@@ -667,10 +667,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304093341378",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093341378",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:33:41.378Z",
-	"dcterms:modified": "2024-03-04T14:33:41.378Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -681,9 +680,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304093341378#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093341378#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -694,7 +694,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304093341378#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093341378#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg[3]/l[5]/rs"
 		}
@@ -745,10 +745,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304093443941",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093443941",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:34:43.941Z",
-	"dcterms:modified": "2024-03-04T14:34:43.941Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -759,9 +758,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304093443941#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093443941#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -772,7 +772,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304093443941#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304093443941#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/lg[6]/l[3]/rs"
 		}
@@ -823,10 +823,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?title_annotation_20240304093607949",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093607949",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:36:07.949Z",
-	"dcterms:modified": "2024-03-04T14:36:07.949Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -837,9 +836,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?title_annotation_20240304093607949#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093607949#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -850,7 +850,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?title_annotation_20240304093607949#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093607949#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title"
 		}
@@ -901,10 +901,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?title_annotation_20240304093622576",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093622576",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:36:22.576Z",
-	"dcterms:modified": "2024-03-04T14:36:22.576Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -915,9 +914,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?title_annotation_20240304093622576#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093622576#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -928,7 +928,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?title_annotation_20240304093622576#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093622576#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/head/title"
 		}
@@ -979,10 +979,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?title_annotation_20240304093633278",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093633278",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:36:33.278Z",
-	"dcterms:modified": "2024-03-04T14:36:33.278Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -993,9 +992,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?title_annotation_20240304093633278#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093633278#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1006,7 +1006,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?title_annotation_20240304093633278#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?title_annotation_20240304093633278#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/head/title"
 		}
@@ -1057,10 +1057,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304094549120",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304094549120",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:45:49.120Z",
-	"dcterms:modified": "2024-03-04T14:45:49.120Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -1071,9 +1070,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304094549120#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304094549120#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1084,7 +1084,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304094549120#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304094549120#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg[4]/l[9]/rs"
 		}
@@ -1135,10 +1135,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240304094615185",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304094615185",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:46:15.185Z",
-	"dcterms:modified": "2024-03-04T14:46:15.185Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -1149,9 +1148,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240304094615185#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304094615185#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1162,7 +1162,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240304094615185#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240304094615185#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/lg[4]/l[10]/rs"
 		}
@@ -1179,6 +1179,86 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.4.0"
 	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240306201315061",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T01:13:15.061Z",
+	"dcterms:modified": "2024-03-07T01:13:15.061Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ewiehn7",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Erin Wiehn"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240306201315061#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?rs_annotation_20240306201315061#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg[2]/l[2]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q252583",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
@@ -1198,7 +1278,7 @@
 
             <lg>
                <l> I’d be a fearless leader </l>
-               <l>I’d be an alpha type </l>
+               <l>I’d be an <rs key="alpha" ref="http://www.wikidata.org/entity/Q252583" cert="high">alpha</rs> type </l>
                <l>When everyone believes ya </l>
                <l>What’s that like? </l>
             </lg>
