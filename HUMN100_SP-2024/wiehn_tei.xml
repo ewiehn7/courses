@@ -3078,6 +3078,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240307184525892",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T23:45:25.892Z",
+	"dcterms:modified": "2024-03-07T23:45:25.892Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ewiehn7",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Erin Wiehn"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240307184525892#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240307184525892#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/lg/l/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Implying that they were under the influence of drugs that night"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -3172,7 +3251,7 @@
          <div>
             <head><title key="Paper Rings" ref="http://www.wikidata.org/entity/Q83895312">Paper Rings</title> </head>
             <lg>
-               <l>The <placeName key="Moon" ref="http://www.wikidata.org/entity/Q405">moon</placeName> is high like your friends were the night that we first met </l>
+               <l>The <placeName key="Moon" ref="http://www.wikidata.org/entity/Q405">moon</placeName> is high like your friends were the night that we first met<note type="annotation">Implying that they were under the influence of drugs that night</note> </l>
                <l>Went home and tried to stalk you on the Internet </l>
                <l>Now I’ve read all of the books beside your bed<note type="annotation">Implying that they've been seeing eachother for a while</note> </l>
             </lg>
