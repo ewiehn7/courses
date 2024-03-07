@@ -1530,10 +1530,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240306202427137",
+	"id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240306202631037",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-07T01:24:27.137Z",
-	"dcterms:modified": "2024-03-07T01:24:27.137Z",
+	"dcterms:created": "2024-03-07T01:26:31.037Z",
+	"dcterms:modified": "2024-03-07T01:26:31.037Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ewiehn7",
 		"@type": [
@@ -1544,7 +1544,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240306202427137#Target",
+		"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240306202631037#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml",
@@ -1558,15 +1558,15 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240306202427137#Selector",
+			"@id": "https://raw.githubusercontent.com/ewiehn7/courses/main/HUMN100_SP-2024/wiehn_tei.xml?note_annotation_20240306202631037#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg[7]/l[2]/note"
+			"rdf:value": "TEI/text/body/div/lg[7]/l[4]/note"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "oa:TextualBody",
 		"dc:format": "text/plain",
-		"rdf:value": "Because she is a woman, she will be looked at different for her actions than a man would"
+		"rdf:value": "Because of her gender, she would be viewed different for her actions than a man would be"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1636,10 +1636,10 @@
             </lg>
 
             <lg>
-               <l>If I was out flashing my dollars </l>
-               <l>I’d be a bitch, not a baller<note type="annotation">Because she is a woman, she will be looked at different for her actions than a man would</note> </l>
+               <l>If I was out flashing my dollars</l><l>I'd be a bitch not a baller</l>
+               
                <l>They’d paint me out to be bad </l>
-               <l>So it’s okay that I’m mad </l>
+               <l>So it’s okay that I’m mad<note type="annotation">Because of her gender, she would be viewed different for her actions than a man would be</note> </l>
             </lg>
 
             <lg>
